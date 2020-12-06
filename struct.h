@@ -17,7 +17,7 @@ struct student
     int year;
     int month;
     int basic_salary;
-    int salary_per;     ///¼¨Ğ§¹¤×Ê£¬¸ù¾İµÈ¼¶ (rule 1)
+    int salary_per;     ///æ¯æœˆçš„å·¥èµ„(rule 1)
     int total_salary;   ///(rule 4)
     int final_salary;   ///(rule 4)
     struct student *next;
